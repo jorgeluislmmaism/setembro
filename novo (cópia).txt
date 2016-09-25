@@ -3,6 +3,3 @@ linha 2 - aquilo também
 linha 3 e agora bicho
 
 alterado
-
-
-nova alteração agora
